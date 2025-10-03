@@ -2,7 +2,7 @@
 
 A concise collection of prompt engineering techniques with definitions, explanations, and examples.  
 Perfect for quick reference while working with LLMs.
-
+URL: https://fsystemweb.github.io/prompt-engineering-cheatsheet/
 ---
 
 ## Techniques
