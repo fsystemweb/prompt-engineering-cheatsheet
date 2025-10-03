@@ -2,7 +2,6 @@
 
 A concise collection of prompt engineering techniques with definitions, explanations, and examples.  
 Perfect for quick reference while working with LLMs.
-URL: https://fsystemweb.github.io/prompt-engineering-cheatsheet/
 ---
 
 ## Techniques
@@ -20,6 +19,8 @@ URL: https://fsystemweb.github.io/prompt-engineering-cheatsheet/
 | 9 | **External Knowledge Grounding (RAG-style prompting)** | Provide the model with documents or facts before the question. | Anchors responses to real data, reducing hallucination. | "Based on the following document, answer the user’s question: …" |
 
 ---
+## GitHub Page
+https://fsystemweb.github.io/prompt-engineering-cheatsheet/
 
 ## ⭐ Contributing
 Feel free to submit PRs with new techniques, improvements, or better examples.
