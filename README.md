@@ -1,4 +1,11 @@
 # 📘 Prompt Engineering Cheat Sheet
+[![Vite](https://img.shields.io/badge/Vite-5.4.2-646CFF?logo=vite&logoColor=white)](https://vitejs.dev/)
+[![React](https://img.shields.io/badge/React-18.3.1-61DAFB?logo=react&logoColor=white)](https://react.dev/)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.5.3-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-3.4.1-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Deploy](https://img.shields.io/badge/gh--pages-Automated%20Deploy-blue?logo=github)](https://pages.github.com/)
+
 
 A concise collection of prompt engineering techniques with definitions, explanations, and examples.  
 Perfect for quick reference while working with LLMs.
